@@ -6,3 +6,6 @@ Developed tourism website where users can browse through the content, videos and
 - Implemented multiple images of a particular destination in a carousel using bootstrap carousel and virtual tour videos using bootstrap embed component.
 
 Technologies used: HTML, CSS, Bootstrap
+
+
+visit: https://dineshgatla.github.io/tourism-website/
